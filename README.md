@@ -51,3 +51,8 @@
   - Custom URL (Optional)
 
 ## Cahpter 4: JavaScript
+
+  - JavaScript the language
+  - What is DOM? And how to manipulate DOM with JS?
+  - What is jQuery?
+  - Create a gallery with JS and CSS
